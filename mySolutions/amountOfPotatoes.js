@@ -1,0 +1,1 @@
+const potatoes = s => s.match(/potato/g).length;
